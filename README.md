@@ -26,6 +26,7 @@ Rails engine for generating and caching dynamic sprite maps from Paperclip attac
 ## Current limitations
 
 * Only jpeg/jpg images are supported
+
 ## Usage
  
  ```ruby
